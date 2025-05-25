@@ -8,12 +8,12 @@
 Adafruit_TCS34725 tcs = Adafruit_TCS34725();
 
 // Data WiFi
-const char* ssid = "Omboburi Space";
-const char* password = "grebegsuro2024";
+const char* ssid = "";
+const char* password = "";
 
 // Token bot Telegram dan chat ID
-const char* botToken = "6401984845:AAEGVsfSCC60WkUPZOAvrDxGRNobt5RQikE";
-const char* chatID = "878712644";
+const char* botToken = "";
+const char* chatID = "";
 
 // Inisialisasi bot Telegram
 WiFiClientSecure client;
